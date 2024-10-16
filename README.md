@@ -1,3 +1,5 @@
+### This is working, but i would like to finish organizing and fixing up before pushing the files here.
+
 ## Boom Buster
 - A very work in progress decompile for the Boom Buster Kickstarter demo.
 - I am not affiliated with Tallglass Games.
